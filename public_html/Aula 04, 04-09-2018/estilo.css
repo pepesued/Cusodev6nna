@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+body {
+    
+    background-color: white;
+}
+
+div {
+    font-size: 30px;
+    font-family: serif;
+    color: blue;
+    
+}
+
+p {
+    
+    font-size: 40px;
+    font-family: arial;
+    color: highlight;
+    
+}
+
+#postagens {
+    
+    font-size: 20px;
+    font-family: sans-serif;
+    color: green;
+}
+
+.conteudos, .perfil {
+    
+    color: gray;
+    
+}
+
+
+.conteudos p {
+    
+    color: green;
+}
+
+#teste {
+    font-size: 20px;
+    font-family: Arial;
+    border: solid 1px #333; 
+    margin: 50px;
+    padding: 20px;
+    
+}
+

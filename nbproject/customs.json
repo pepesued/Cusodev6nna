@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "javascript": {
+            "context": "script"
+        },
+        "height": {
+            "context": "table"
+        }
+    }
+}
